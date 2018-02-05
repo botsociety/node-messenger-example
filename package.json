@@ -1,0 +1,21 @@
+{
+  "name": "node-messenger-example",
+  "version": "1.0.0",
+  "description": "An example bot that uses the Botsociety deployed on Facebook Messenger",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vittorio erlapso Banfi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:botsociety/serverup-example.git"
+  },
+  "dependencies": {
+    "botsociety": "^1.1.0",
+    "dotenv": "^5.0.0",
+    "http": "0.0.0",
+    "messenger-bot": "^2.4.0"
+  }
+}
